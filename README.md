@@ -1,0 +1,1 @@
+This lincoln's first git project!
